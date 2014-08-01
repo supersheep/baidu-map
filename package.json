@@ -1,0 +1,28 @@
+{
+  "name": "baidu-map",
+  "version": "0.1.0",
+  "description": "baidu-map",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/supersheep/baidu-map.git"
+  },
+  "keywords": [
+    "baidu-map"
+  ],
+  "engines": { 
+    "node": ">=0.11.0"
+  },
+  "author": "supersheep",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supersheep/baidu-map/issues"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  }
+}
