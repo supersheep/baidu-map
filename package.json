@@ -1,7 +1,7 @@
 {
   "name": "baidu-map",
   "version": "0.1.0",
-  "description": "baidu-map",
+  "description": "node proxy for baidu map web apis",
   "main": "index.js",
   "scripts": {
     "test": "make test"
@@ -13,7 +13,7 @@
   "keywords": [
     "baidu-map"
   ],
-  "engines": { 
+  "engines": {
     "node": ">=0.11.0"
   },
   "author": "supersheep",
@@ -24,5 +24,11 @@
   "devDependencies": {
     "mocha": "*",
     "chai": "*"
+  },
+  "dependencies": {
+    "request": "~2.39.0",
+    "underscore": "~1.6.0",
+    "querystring": "~0.2.0",
+    "MD5": "~1.2.1"
   }
 }
