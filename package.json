@@ -1,6 +1,6 @@
 {
   "name": "baidu-map",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "node proxy for baidu map web apis",
   "main": "index.js",
   "scripts": {
@@ -11,12 +11,19 @@
     "url": "git://github.com/supersheep/baidu-map.git"
   },
   "keywords": [
+    "百度地图",
+    "baidumap",
+    "baiduditu",
+    "ditu",
+    "地图",
     "baidu-map"
   ],
   "engines": {
     "node": ">=0.11.0"
   },
-  "author": "supersheep",
+  "author": {
+    "name": "supersheep"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/supersheep/baidu-map/issues"
