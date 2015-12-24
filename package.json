@@ -33,9 +33,9 @@
     "chai": "*"
   },
   "dependencies": {
-    "request": "~2.39.0",
-    "underscore": "~1.6.0",
+    "md5": "^2.0.0",
     "querystring": "~0.2.0",
-    "MD5": "~1.2.1"
+    "request": "~2.39.0",
+    "underscore": "~1.6.0"
   }
 }
